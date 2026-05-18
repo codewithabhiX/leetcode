@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/codewithabhiX/leetcode/tree/master/0853-car-fleet) |
+| [0999-available-captures-for-rook](https://github.com/codewithabhiX/leetcode/tree/master/0999-available-captures-for-rook) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/codewithabhiX/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sorting
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/codewithabhiX/leetcode/tree/master/0999-available-captures-for-rook) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/codewithabhiX/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Stack
 |  |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/codewithabhiX/leetcode/tree/master/0853-car-fleet) |
+## Simulation
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/codewithabhiX/leetcode/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
