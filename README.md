@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0853-car-fleet](https://github.com/codewithabhiX/leetcode/tree/master/0853-car-fleet) |
 | [0999-available-captures-for-rook](https://github.com/codewithabhiX/leetcode/tree/master/0999-available-captures-for-rook) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/codewithabhiX/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/codewithabhiX/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/codewithabhiX/leetcode/tree/master/0383-ransom-note) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/codewithabhiX/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
