@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/codewithabhiX/leetcode/tree/master/0999-available-captures-for-rook) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/codewithabhiX/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/codewithabhiX/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+## Math
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/codewithabhiX/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/codewithabhiX/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
