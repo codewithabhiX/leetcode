@@ -6,7 +6,7 @@ class Solution {
      
       for(int i=0;i<drones.length;i++){
             int temp=(Math.abs(drones[i][0]-target[0]) + Math.abs(drones[i][1]-target[1]));
-        System.out.println(temp);
+        
             if(temp<=drones[i][2]){
                 if(minrange>temp){
                     minrange=temp;
@@ -16,9 +16,7 @@ class Solution {
                 }
             }
       }  
-      if(minindex==1000){
-        return -1;
-      }
+      
       return minindex;
     }
 }
