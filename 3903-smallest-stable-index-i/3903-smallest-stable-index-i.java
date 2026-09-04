@@ -16,7 +16,7 @@ class Solution {
           }
 
           int total=max-min;
-          System.out.println(total);
+         
           if(total<=k){
             if(totalMin>i)
             totalMin=i;
