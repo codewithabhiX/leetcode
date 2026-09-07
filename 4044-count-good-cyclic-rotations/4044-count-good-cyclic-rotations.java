@@ -25,8 +25,7 @@ class Solution {
           leftsum=leftsum-nums[i];
           leftsum=leftsum+nums[j];
           rigthsum=total-leftsum;
-System.out.println(leftsum);
-          System.out.println(rigthsum);
+
        
 
           if(leftsum!=rigthsum){
