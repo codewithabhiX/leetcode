@@ -21,7 +21,7 @@ class Solution {
 
        int j=(nums.length/2);
         
-       for(int i=0;i<(nums.length/2)-1;i++){
+       for(int i=0;i<nums.length/2-1;i++){
           leftsum=leftsum-nums[i];
           leftsum=leftsum+nums[j];
           rigthsum=total-leftsum;
