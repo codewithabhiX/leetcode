@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/codewithabhiX/leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/codewithabhiX/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3870-count-commas-in-range](https://github.com/codewithabhiX/leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/codewithabhiX/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Game Theory
 |  |
 | ------- |
