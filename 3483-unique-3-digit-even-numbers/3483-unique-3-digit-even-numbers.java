@@ -27,15 +27,15 @@ class Solution {
                   
                   if(n==p && n==q && p==q && hashArray[n]>=3){
                     count++;
-                    System.out.println(q+""+p+""+n);
+                  
                   }else if(((n==p || n==q) &&  p!=q) || ((p==n || p==q) &&  n!=q)){
                     count++;
-                    System.out.println(q+""+p+""+n);
+                   
                   }
                    
                 }else if(n!=p && p!=q && n!=q){
                     count++;
-                    System.out.println(q+""+p+""+n);
+                    
                 }
                 
             }
